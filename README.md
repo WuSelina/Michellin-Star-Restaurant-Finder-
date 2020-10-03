@@ -18,9 +18,7 @@ Areas of Improvement: I would like to extend the interactivity of this mini-proj
 <br/>
 <br/>
 **In [26]: Stacked Bar Chart of Restaurants Serving Each Cuisine in Different Regions**
-![2_stackedbar](https://github.com/WuSelina/Michellin-Star-Restaurant-Finder-/blob/master/Project%20visuals/2.PNG )
-<br/>
-![2a_zoom_stackedbar](https://github.com/WuSelina/Michellin-Star-Restaurant-Finder-/blob/master/Project%20visuals/3.PNG )
+![2_stackedbar](https://github.com/WuSelina/Michellin-Star-Restaurant-Finder-/blob/master/Project%20visuals/2.png )
 <br/>
 *This bar chart indicates the variety in cuisine among restaurants of select regions. User can view relevant information, such as pricing and presence/absence of cuisine, and compare among different regions.*
 <br/>
