@@ -9,5 +9,6 @@ The project was programmed in jupyter notebook using Python. The visuals were cr
 
 Areas of Improvement: I would like to extend the interactivity of this mini-project beyond the visual graphs. It would be more useable if users could easily specify their preferences through an interface allowing them to simply type their requests. Additionally, more and up-to-date data is desired.
 
-![1](/WuSelina/Michellin-Star-Finder-/Project visuals/1.png?raw=true "Optional Title")
-![1a](/WuSelina/Michellin-Star-Finder-/"Project visuals"/1.png?raw=true "Optional Title")
+![alt text](https://github.com/WuSelina/Michellin-Star-Restaurant-Finder-/blob/master/Project%20visuals/1.PNG)
+
+![GitHub Logo](/1.png)
