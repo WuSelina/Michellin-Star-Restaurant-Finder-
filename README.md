@@ -3,10 +3,11 @@ This data, gathered from kaggle, contains information for one-, two-, and three-
 
 The goal of the project is to use fundamental data science principles and techniques to help a pair of "foodie" travelers determine a weekend destination and a handful of restaurants. The markdown includes abundant context and explanations of the code. 
 
-The project was originally programmed in jupyter notebook using Python. The visuals, linked ![here (project visuals)](https://github.com/WuSelina/Michellin-Star-Restaurant-Finder-/issues/1) were created using the pandas library, and they are interactive.
+The project was programmed in jupyter notebook using Python. The visuals were created using the pandas library and are interactive.
 
 **Enjoy!**
 
 Areas of Improvement: I would like to extend the interactivity of this mini-project beyond the visual graphs. It would be more useable if users could easily specify their preferences through an interface allowing them to simply type their requests. Additionally, more and up-to-date data is desired.
 
 
+![GitHub Logo](/images/logo.png)
