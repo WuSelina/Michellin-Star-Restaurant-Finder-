@@ -8,15 +8,21 @@ The project was programmed in jupyter notebook using Python. The visuals were cr
 **Enjoy!**
 
 Areas of Improvement: I would like to extend the interactivity of this mini-project beyond the visual graphs. It would be more useable if users could easily specify their preferences through an interface allowing them to simply type their requests. Additionally, more and up-to-date data is desired.
-
-
+<br/>
+<br/>
+<br/>
 **In [22]: World Map of Qualifying Michellin-Star Restaurants**
 ![1_geomap](https://github.com/WuSelina/Michellin-Star-Restaurant-Finder-/blob/master/Project%20visuals/1.PNG )
 <br/>
 *Users can interact (hover, select, zoom, pan) with this geographic map and view the contending Michelin restaurants and their relevent information.*
-
-<br>
+<br/>
+<br/>
 **In [26]: Stacked Bar Chart of Restaurants Serving Each Cuisine in Different Regions**
 ![2_stackedbar](https://github.com/WuSelina/Michellin-Star-Restaurant-Finder-/blob/master/Project%20visuals/2.PNG )
+<br/>
 ![2a_zoom_stackedbar](https://github.com/WuSelina/Michellin-Star-Restaurant-Finder-/blob/master/Project%20visuals/3.PNG )
+<br/>
 *This bar chart indicates the variety in cuisine among restaurants of select regions. User can view relevant information, such as pricing and presence/absence of cuisine, and compare among different regions.*
+<br/>
+<br/>
+**In**
