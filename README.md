@@ -9,3 +9,5 @@ Enjoy!
 
 Areas of Improvement: I would like to extend the interactivity of this mini-project beyond the visual graphs. It would be more useable if users could easily specify their preferences through an interface allowing them to simply type their requests. Additionally, more and up-to-date data is desired.
 
+![GitHub Logo](/images/logo.png)
+![alt text](https://github.com/WuSelina/Michellin-Star-Restaurant-Finder-/issues/1)
