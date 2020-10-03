@@ -1,4 +1,4 @@
-# Michellin-Star-Restaurant-Finder-
+# Michellin-Star Restaurant Finder
 This data, gathered from kaggle, contains information for one-, two-, and three-star Michelin restaurants which were awarded stars in 2018 or 2019. Many regions and their Michellin-Star restaurants are absent from this data. 
 
 The goal of the project is to use fundamental data science principles and techniques to help a pair of "foodie" travelers determine a weekend destination and a handful of restaurants. The markdown includes abundant context and explanations of the code. 
